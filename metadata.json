@@ -1,0 +1,6 @@
+{
+  "name": "알고쇼핑 (AlgoShopping)",
+  "description": "김천고등학교 기준 마트별 장바구니 가격과 이동 비용을 종합 분석하여 최적의 합리적 소비처를 추천하는 스마트 장보기 알고리즘 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
